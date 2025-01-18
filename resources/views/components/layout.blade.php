@@ -1,0 +1,1 @@
+{{-- This is Global Layout we will use --}}
