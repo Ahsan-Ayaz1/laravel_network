@@ -3,7 +3,7 @@
     <ul>
         @foreach ($ninjas as $ninja)
         <li>
-            <a href="ninjas/{{ $ninja[" id"] }}"> {{ $ninja["name"] }} </a>
+            <a href="ninjas/{{ $ninja["id"] }}"> {{ $ninja["name"] }} </a>
         </li>
         @endforeach
     </ul>
