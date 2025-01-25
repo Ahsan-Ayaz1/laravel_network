@@ -1,5 +1,5 @@
 <x-layout>
-    <h2>Currently Available Ninjas</h2>
+    <h2>Current Available Ninjas</h2>
     <ul>
         @foreach ($ninjas as $ninja)
         <li>
