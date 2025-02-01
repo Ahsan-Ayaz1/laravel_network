@@ -1,3 +1,4 @@
+{{-- Global Layout "x-layout" --}}
 <x-layout>
     <h2>Currently Available Ninjas</h2>
     <ul>
